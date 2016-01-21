@@ -34,6 +34,13 @@
 /*global jQuery:false */
 /*global moment:false */
 
+/**
+*
+* @require bootstrap/css/bootstrap.css
+* @require bootstrap-datetimepicker/bootstrap-datetimepicker.css
+*
+*/
+
 (function (factory) {
     'use strict';
     // AMD is used - Register as an anonymous module.
