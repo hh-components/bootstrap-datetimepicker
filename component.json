@@ -4,7 +4,7 @@
     "description": "Bootstrap datetimepicker",
     "main": "bootstrap-datetimepicker.js",
     "dependencies": {
-        "moment": "~2.8",
+        "moment": "~2.11.1",
         "bootstrap": "^3.3",
         "jquery": ">=1.8.3"
     },
